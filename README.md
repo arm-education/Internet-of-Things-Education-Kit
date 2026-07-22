@@ -1,8 +1,7 @@
 # Internet-of-Things-Education-Kit
 
 ## Important
-### To download the latest stable version, please click below instead of using the "Download ZIP" button.
-### [Click here to download](https://github.com/arm-university/Internet-of-Things-Education-Kit/releases/download/v2.0.0/Internet-of-Things-Education-Kit.zip)
+### To download the latest stable version, please click the "Download ZIP" button.
 
 ## About
 
