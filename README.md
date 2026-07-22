@@ -15,7 +15,7 @@ Our Internet of Things Education Kit covers the  fundamental concepts of the Int
 
 ## Mbed Announcement
 
-Arm has announced the End of Life Timeline for Mbed. The Arm Education team is actively working on creating alternative teaching and learning solutions in time for the new academic terms starting Fall/Autumn 2025. We welcome feedback from the academic community on this. Reach out to the team at: education@arm.com
+Arm has announced the End of Life Timeline for Mbed. The content in this resource has been updated to incorporate CMSIS.  We welcome feedback from the academic community on this. Reach out to the team at: education@arm.com
 
 
  ## Kit specification:
